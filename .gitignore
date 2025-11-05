@@ -1,0 +1,5 @@
+# Bỏ qua môi trường ảo
+.venv/
+# Bỏ cache Jupyter
+.ipynb_checkpoints/
+__pycache__/
